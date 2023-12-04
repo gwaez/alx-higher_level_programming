@@ -1,18 +1,18 @@
-# Python - Inheritance
+# 🐍 Python - Inheritance 🚀
 
-# In this project, I, Ahmed Mahmoud (GitHub: [gwaez](https://github.com/gwaez)), learned about Python class inheritance. I explored the
+# In this project, I, Ahmed Mahmoud (GitHub: [gwaez](https://github.com/gwaez)), learned about Python class inheritance. 📚 I explored the
 # differences between super- and sub-classes while practicing inheritance,
 # defining classes with multiple base classes, and overriding inherited methods
 # and attributes.
 
-## Tests :heavy_check_mark:
+## 🧪 Tests :heavy_check_mark:
 
 # * [tests](./tests): Folder of test files. Includes both Holberton-provided ones
 # as well as the following two independently-developed:
 #     * [1-my_list.txt](./1-my_list.txt)
 #     * [7-base_geometry.txt](./7-base_geometry.txt)
 
-## Function Prototypes :floppy_disk:
+## 📁 Function Prototypes :floppy_disk:
 
 # Prototypes for functions written in this project:
 
@@ -24,7 +24,7 @@
 # | `4-inherits_from.py`    | `def inherits_from(obj, a_class):`    |
 # | `101-add_attribute.py`  | `def add_attribute(obj, att, value):` |
 
-## Tasks :page_with_curl:
+## 📝 Tasks :page_with_curl:
 
 # * **0. Lookup**
 #   * [0-lookup.py](./0-lookup.py): Python function that returns a list of available attributes
